@@ -1,0 +1,34 @@
+Java Koans
+   
+   I was very inspired by a project called
+   [{{{https://github.com/edgecase/ruby_koans}ruby_koans}}] which uses
+   unit tests to teach ruby. I thought it would be really cool to do
+   the same thing in java. 
+
+   So, I'm slowly gathering examples of java code in this project. I
+   hope to have time someday to set up a system like the ruby_koans
+   project that makes it possible to "run" these examples as exercises. 
+
+Where is it?
+
+* Source Code
+
+---------------
+git clone git@github.com:dparoulek/java-koans.git
+---------------
+
+* Binary Releases
+
+ {{http://dev.upgradingdave.com/maven/com/upgradingdave/java-koans}}
+
+Usage
+
+  Just reference code for various syntax, common use cases and patterns in java. 
+
+Release Notes: 
+
+* Version 0.0.1
+
+    * a single regex example
+  
+    * abstract factory and builder pattern examples

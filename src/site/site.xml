@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<project name="AHRQ Java Development">
+  <bannerLeft>
+    <name>UpgradingDave Java Documentation</name>
+    <src>/images/java.png</src>
+  </bannerLeft>
+  <body>
+    <links>
+      <item name="My Blog" href="http://upgradingdave.com/" />
+    </links>
+    <menu name="Main Menu">
+      <item name="Overview" href="index.html" />      
+      <item name="Summary" href="project-summary.html" />      
+      <item name="JavaDocs" href="apidocs/index.html" />
+      <item name="Junit Test JavaDocs" href="testapidocs/index.html" />
+      <item name="Dependencies" href="dependencies.html" />
+      <item name="The Team" href="team-list.html" />
+    </menu>
+  </body>
+</project>
