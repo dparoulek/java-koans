@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<project name="AHRQ Java Development">
+<project name="UpgradingDave Java Development">
   <bannerLeft>
     <name>UpgradingDave Java Documentation</name>
-    <src>/images/java.png</src>
+    <src>java.png</src>
+    <href>http://upgradingdave.com/</href>
   </bannerLeft>
   <body>
     <links>

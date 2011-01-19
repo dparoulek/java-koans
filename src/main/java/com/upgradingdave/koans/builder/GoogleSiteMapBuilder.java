@@ -33,5 +33,4 @@ public class GoogleSiteMapBuilder implements SiteMapBuilder {
         }
         return header + body + footer;
     }
-
 }
