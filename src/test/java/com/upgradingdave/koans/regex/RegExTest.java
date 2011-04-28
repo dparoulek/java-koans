@@ -44,5 +44,12 @@ public class RegExTest {
         String before = "product-code";
         assertEquals("productCode", RegularExpressions.convertProductCode(before));
     }
-   
+    
+    @Test
+    public void testsSingleGroupMatch(){
+        String regex = ".*users/([^/]+)$";
+        String testString = "http://upgradingdave.com/users/2376";
+        assertEquals("2376", RegularExpressions.matchSingleGroup(regex, testString));
+    }
+
 }

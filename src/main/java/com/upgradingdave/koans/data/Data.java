@@ -12,5 +12,4 @@ public interface Data {
             new WebPage("Tim", "http://example.com/tim", null, null),
             new WebPage("Ben", "http://example.com/ben", null, null),
             new WebPage("Zack", "http://example.com/zack", null, null) };
-
 }
